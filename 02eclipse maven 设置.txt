@@ -1,0 +1,15 @@
+第一步
+D:\MavenRepository\settings.xml
+第55行
+<localRepository>D:/MavenRepository/SpringWind</localRepository>
+注：SpringWind为项目名称
+
+
+第二步
+Preferences→Maven→Installations→Add→
+Installation home  为C:\apache-maven-3.5.3
+
+第三步
+Preferences→Maven→User Settings
+User Settings 为D:\MavenRepository\settings.xml
+Aplly后，对话框选NO，建议暂时不要Update
